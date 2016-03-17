@@ -1,0 +1,7 @@
+h1 {
+  color:$heading-color;
+  font-size: $heading-font-size;
+  &:hover {
+    color:$extra;
+  }
+}
